@@ -1,5 +1,5 @@
 '''
-NAME: Aryan
+NAME: Akshat
 Project Name: Health Diagnosis 
 This project is used to predict the disease based on the symptoms given by the user. 
 It predicts using three different machine learning algorithms. So, the output is accurate.
